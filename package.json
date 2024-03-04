@@ -1,0 +1,15 @@
+{
+  "name": "homestead-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homestead-pdf.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "author": "Malcolm Meyer",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
