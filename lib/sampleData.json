@@ -2,7 +2,7 @@
   {
     "application_serial": 135,
     "application_pid": 123456,
-    "application_parcel": "78910",
+    "application_parcel": "33-333654-654654-654654654",
     "application_tax_year": 2025,
     "application_911_address": "123 Main St",
     "application_book": "ABCD",
@@ -27,7 +27,7 @@
     "applicant_ssn": "xnwOPVZvX\/jCZELN8t\/6nOxONORRl4zjzftXVpN1rAPoMoxcofsjP2JjyXf7vRr+OJCbvu4Fz7t+cTCSn5gTMA==",
     "applicant_phone": "330-464-4765",
     "applicant_email": "malcolmtmeyer@gmail.com",
-    "applicant_marital": "P",
+    "applicant_marital": "W",
     "applicant_current_address": "501 RANDOLPH ST CRESCENT CITY, FL 32112",
     "applicant_previous_address": "401 Market St, OH 43701",
     "applicant_residency_other": 0,
@@ -77,7 +77,7 @@
   {
     "application_serial": 134,
     "application_pid": 123456,
-    "application_parcel": "78910",
+    "application_parcel": "33-333654-654654-654654654",
     "application_tax_year": 2025,
     "application_911_address": "123 Main St",
     "application_book": "ABCD",
@@ -144,7 +144,7 @@
     "applicant_created": "2024-02-21 16:50:41",
     "applicant_ip": "192.168.1.1",
     "applicant_mail_address": "501 RANDOLPH ST, CRESCENT CITY, FL 32112",
-    "applicant_coapp": null,
+    "applicant_coapp": true,
     "application_created_verbose": "02\/21\/2024 4:50 PM",
     "applicant_created_verbose": "02\/21\/2024 4:50 PM",
     "applicant_domicile_date_verbose": "01\/01\/1970 12:00 AM"

@@ -5,7 +5,8 @@
   "main": "homestead-pdf.js",
   "type": "module",
   "scripts": {
-    "test": "node tests/test.js"
+    "test:all": "node tests/test.js",
+    "test": "node index.js"
   },
   "author": "Malcolm Meyer",
   "license": "ISC",
